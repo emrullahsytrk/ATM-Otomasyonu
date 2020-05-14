@@ -1,0 +1,31 @@
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\bin\Debug\BANKA.exe.config
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\bin\Debug\BANKA.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\bin\Debug\BANKA.pdb
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.csprojResolveAssemblyReference.cache
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.GİRİŞ.resources
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.Properties.Resources.resources
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.csproj.GenerateResource.Cache
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.exe
+c:\users\emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.pdb
+C:\Users\Emrullah\Documents\Visual Studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.PARA_ÇEKME.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.Hesap_Bilgisi.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.PARA_YATIRMA.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.PARA_TRANSFERİ.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.HESAP_MENÜSÜ.resources
+C:\Users\Emrullah\documents\visual studio 2015\Projects\BANKA\BANKA\obj\Debug\BANKA.ALICI.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\bin\Debug\BANKA.exe.config
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.exe
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.pdb
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.ALICI.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.GİRİŞ.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.Hesap_Bilgisi.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.HESAP_MENÜSÜ.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.PARA_TRANSFERİ.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.PARA_YATIRMA.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.PARA_ÇEKME.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.Properties.Resources.resources
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.csproj.GenerateResource.Cache
+C:\Users\Emrullah\Desktop\BANKA\BANKA\bin\Debug\BANKA.exe
+C:\Users\Emrullah\Desktop\BANKA\BANKA\bin\Debug\BANKA.pdb
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.csprojAssemblyReference.cache
+C:\Users\Emrullah\Desktop\BANKA\BANKA\obj\Debug\BANKA.csproj.CoreCompileInputs.cache
